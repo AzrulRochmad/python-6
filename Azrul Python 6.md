@@ -2,7 +2,7 @@
 ### NIM    : 20.01.013.036
 ### MatKul : Kecerdasan Buatan
 
-# Tutorial python ke 5
+# Tutorial python ke 6
 ## 1. Exception
 ![1](https://user-images.githubusercontent.com/91447980/141276635-373ff3de-f736-4def-8a87-5e0bc93358f2.png)
 
